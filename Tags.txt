@@ -1,0 +1,5 @@
+https://www.wpkube.com/html5-cheat-sheet/
+
+
+The semantic tags (footer, header, nav, etc). do not affect the placement of your elements.
+ Instead they provide some context to users who may be accessing your page through non-visual means.
